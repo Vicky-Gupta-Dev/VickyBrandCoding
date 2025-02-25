@@ -75,7 +75,7 @@ html css projects to build your portfolio
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#all"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" /> </a>
+  <a href="https://mail.google.com/mail/u/0/#all"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://samarjit.vercel.app">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/></a>
