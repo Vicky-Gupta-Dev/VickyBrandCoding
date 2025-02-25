@@ -33,7 +33,7 @@ html css projects to build your portfolio
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
 
-<h1 align="center">Samarjit Sahoo</h1>
+<h1 align="center">Vicky Kumar Gupta</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p>
@@ -63,10 +63,7 @@ html css projects to build your portfolio
 <div align="center">
 <a href="https://github.com/samarjitsahoo/auction-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=auction-platform&theme=transparent" alt="C"></a>
 <a href="https://github.com/samarjitsahoo/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
-<a href="https://github.com/samarjitsahoo/youtube-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=youtube-clone&theme=transparent" alt="Java"></a>
-<a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
 <a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
-<a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
@@ -95,7 +92,9 @@ html css projects to build your portfolio
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/">
+  <a href="https://linkedin.com/in/
+vicky-kumar-saw-03344b352
+">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
