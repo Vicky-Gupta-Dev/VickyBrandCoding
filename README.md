@@ -84,19 +84,14 @@ html css projects to build your portfolio
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
-  </a>
+  <a href="https://mail.google.com/mail/u/0/#all">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" /> </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://samarjit.vercel.app">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
-  </a>
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/
-vicky-kumar-saw-03344b352
-">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
-  </a>
+  <a href="https://linkedin.com/in/vicky-kumar-saw-03344b352">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/></a>
 </p>
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
 
