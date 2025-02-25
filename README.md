@@ -87,7 +87,7 @@ html css projects to build your portfolio
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="vickygupta825408@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
