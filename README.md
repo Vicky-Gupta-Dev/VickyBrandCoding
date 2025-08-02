@@ -1,4 +1,61 @@
 # VickyBrandCoding
+## 👋 Hi there, I'm Vicky Kumar Gupta
+
+I'm a passionate **Frontend Developer** with 1 year of experience crafting responsive and user-friendly websites using **HTML, CSS, JavaScript, and React**. I'm skilled in working with **REST APIs**, such as my project using the Country API.
+
+---
+
+### 🔧 Tech Stack:
+- HTML5 | CSS3 | JavaScript (ES6+)
+- React.js
+- RESTful APIs
+- Git & GitHub
+- VS Code | Git Bash
+
+---
+
+### 💼 Projects
+
+🔹 **Country Info App**  
+Technologies Used: React, Country API, CSS  
+A web app that displays detailed information about countries including flags, population, and region using REST API.
+
+---
+
+### 📈 GitHub Stats
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me:
+- 📧 Email: mrvickybrand3261@gmail.com
+- 📞 Phone: +91 7482973062
+- 🔗 [LinkedIn](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
+- 🌐 [Portfolio Website](#) *(Coming Soon)*
+
+---
+
+### 📄 Resume
+[Download My Resume](https://sandbox:/mnt/data/Vicky_Kumar_Gupta_Resume_With_Photo.docx)
+
+---
+
+### 🎯 Hobbies & Interests
+- Coding web interfaces
+- Learning new frontend frameworks
+- Reading tech blogs
+- Exploring open-source
+
+---
+
+### ⚠️ Disclaimer
+All projects and experiences mentioned above are developed and managed by me. Data such as emails and numbers are confidential and to be used for professional purposes only.
+
+---
+
+Thank you for visiting my GitHub! 😊
+
+
 html css projects to build your portfolio
 
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
