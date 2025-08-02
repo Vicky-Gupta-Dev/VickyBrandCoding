@@ -5,7 +5,7 @@ html css projects to build your portfolio
 <h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src=".gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
@@ -15,8 +15,8 @@ html css projects to build your portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vicky-kumar-saw-03344b352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vicky Kumar Gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/guptaji_vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GUPTA VICKY" height="30" width="40" /></a>
+<a href="linkedin.com/in/vicky-kumar-gupta-03344b352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vicky Kumar Gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/guptaji_vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GUPTA-VICKY" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mrjharkhandibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MR JHARKHANDI BABU" height="30" width="40" /></a>
 </p>
 
