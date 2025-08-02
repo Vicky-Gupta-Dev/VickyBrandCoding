@@ -5,7 +5,7 @@ html css projects to build your portfolio
 <h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src=".gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
@@ -88,7 +88,7 @@ html css projects to build your portfolio
   <a href="https://samarjit.vercel.app">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/vicky-kumar-saw-03344b352">
+  <a href="https://linkedin.com/in/vicky-kumar-gupta-03344b352">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/></a>
 </p>
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
