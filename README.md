@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="C:\Users\vicky\OneDrive\Desktop\vicky\Vicky_Kumar_Gupta_Resume_With_Photo (2).docx" alt="Vicky-Gupta-dev" />
+  <img src="https://komarev.com/ghpvc/?username=Vicky-Gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Vicky-Gupta-dev" />
 </p>
 
 - 🔭 I’m currently working as a **Frontend Developer
