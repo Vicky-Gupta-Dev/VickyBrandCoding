@@ -1,4 +1,83 @@
 # VickyBrandCoding
+
+
+
+<h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vicky-Gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Vicky-Gupta-dev" />
+</p>
+
+- 🔭 I’m currently working as a **Frontend Developer**
+
+- 🌱 I’m learning **Backend Development (Node.js, Express.js, MongoDB)**
+
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+
+- 📫 How to reach me: **mrvickybrand3261@gmail.com**
+
+- 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
+
+---
+
+### 🛠️ My Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Version Control:** Git & GitHub
+- **API Integration:** REST APIs
+- **Responsive Design:** Yes
+
+---
+
+### 💼 Work Experience
+- **Frontend Developer (1 Year)**
+  - Developed responsive web applications
+  - Integrated APIs like Country API
+  - Collaborated with backend and UI teams
+
+---
+
+### 🎓 Education
+- 🎓 B.A. (Bachelor of Arts), Markham College of Commerce, Hazaribagh, Vinoba Bhave University (2021–2024)
+- 🎓 12th, Markham College of Commerce, Hazaribagh (2021), 74.4%
+- 🎓 10th, Amoli Apurua High School, Mangarh (Chouparan), 60%
+- 💻 ADCA+ (Advanced Diploma in Computer Applications), Completed in 2020
+
+---
+
+### 🌐 Languages
+- Hindi
+- English
+
+---
+
+### 🎯 Hobbies & Interests
+- Web Development
+- Learning New Technologies
+
+---
+
+### 📢 Disclaimer
+The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein.
+
+---
+
+### 👨‍💻 About Me
+Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code.
+
+I began my journey in web development out of pure curiosity and soon realized how powerful and creative this field can be. Over the past year, I have worked on several real-world projects, including dynamic interfaces and API-based applications like the Country API project, where I integrated REST APIs to fetch and display live country data.
+
+Currently, I’m expanding my skillset into Backend Development, focusing on Node.js, Express.js, and MongoDB. I believe having a strong understanding of both frontend and backend technologies makes a developer complete, and that’s the path I’m excited to pursue.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical" alt="Vicky Kumar Gupta's GitHub stats"/>
+</p>
+
 ## 👋 Hi there, I'm Vicky Kumar Gupta
 
 I'm a passionate **Frontend Developer** with 1 year of experience crafting responsive and user-friendly websites using **HTML, CSS, JavaScript, and React**. I'm skilled in working with **REST APIs**, such as my project using the Country API.
