@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vicky-Gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Vicky-Gupta-dev" />
+  <img src=""C:\Users\vicky\OneDrive\Desktop\vicky\Vicky_Kumar_Gupta_Resume_With_Photo (2).docx"" alt="Vicky-Gupta-dev" />
 </p>
 
 - 🔭 I’m currently working as a **Frontend Developer
@@ -85,7 +85,7 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 ![logo](https://github.com/.png)
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=fla" alt="ashutosh-pmishra" /> </p>
 <h1 align="center">Vicky Kumar Gupta</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
