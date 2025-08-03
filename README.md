@@ -18,12 +18,12 @@
 
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React.js
 - **Version Control:** Git & GitHub
-- ** VS Code | Git Bash
+- VS Code | Git Bash
 - **API Integration:** REST APIs
 - **Responsive Design:** Yes
 
 ### 💼 Work Experience
-- **Frontend Developer (1 Year)**
+- Frontend Developer (1 Year)**
   - Developed responsive web applications
   - Integrated APIs like Country API
   - Collaborated with backend and UI teams
@@ -37,6 +37,14 @@
 - 💻 ADCA+ (Advanced Diploma in Computer Applications), Completed in 2020
 
 ---### 💼 Projects
+<ol>
+   <h1>🔧 Features</h1>
+   <li>Search country by name</li>
+   <li>Filter by region</li>
+   <li>Light/Dark mode toggle</li>
+   <li>Responsive design for all screen sizes</li>
+   <li>Fetching live data using REST API</li>
+</ol>
 
 🔹 **Country Info App**  
 Technologies Used: React, Country API, CSS  
@@ -55,7 +63,7 @@ A web app that displays detailed information about countries including flags, po
 - Reading tech blogs
 
 ### 📢 Disclaimer
-The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein.
+The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API. 
 
 ### 👨‍💻 About Me
 Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code.
@@ -69,15 +77,6 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical" alt="Vicky Kumar Gupta's GitHub stats"/>
 </p>
-### 📈 GitHub Stats
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical)
-### 📄 Resume
-[Download My Resume](https://sandbox:/mnt/data/Vicky_Kumar_Gupta_Resume_With_Photo.docx)
-Thank you for visiting my GitHub! 😊
-
-
-html css projects to build your portfoli
-
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -103,16 +102,6 @@ html css projects to build your portfoli
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
-<h2 align="center">👨🏻‍💻 About me:</h2>
-<p align="justify"> A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API. </p>
-<ol>
-   <h1>🔧 Features</h1>
-   <li>Search country by name</li>
-   <li>Filter by region</li>
-   <li>Light/Dark mode toggle</li>
-   <li>Responsive design for all screen sizes</li>
-   <li>Fetching live data using REST API</li>
-</ol>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
 </p>
