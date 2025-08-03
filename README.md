@@ -6,12 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=Vicky-Gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Vicky-Gupta-dev" />
 </p>
 
-- 🔭 I’m currently working as a **Frontend Developer**
+- 🔭 I’m currently working as a **Frontend Developer
 - 🌱 I’m learning **Backend Development (Node.js, Express.js, MongoDB)**
 - - 📞 Phone: +91 7482973062
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
 - 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
-- - 🌐 [Portfolio Website](#) *(Coming Soon)*
+-  🌐 [Portfolio Website](#) *(Coming Soon)*
 - 📫 How to reach me: **mrvickybrand3261@gmail.com**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 ### 🛠️ My Tech Stack
@@ -53,14 +53,25 @@ A web app that displays detailed information about countries including flags, po
 ### 🌐 Languages
 - Hindi
 - English
-
-### 🎯 Hobbies & Interests
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
+- ### 🎯 Hobbies & Interests
 - Web Development
 - Coding web interfaces
 - Learning New Technologies
 - Learning new frontend frameworks
 - Exploring open-source
 - Reading tech blogs
+- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- ⚡ Fun fact **I am funny😅**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vicky-kumar-gupta-03344b352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vicky Kumar Gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/guptaji_vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GUPTA-VICKY" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mrjharkhandibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MR JHARKHANDI BABU" height="30" width="40" /></a>
+</p>
+
 
 ### 📢 Disclaimer
 The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API. 
@@ -71,27 +82,10 @@ Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Dev
 I began my journey in web development out of pure curiosity and soon realized how powerful and creative this field can be. Over the past year, I have worked on several real-world projects, including dynamic interfaces and API-based applications like the Country API project, where I integrated REST APIs to fetch and display live country data.
 
 Currently, I’m expanding my skillset into Backend Development, focusing on Node.js, Express.js, and MongoDB. I believe having a strong understanding of both frontend and backend technologies makes a developer complete, and that’s the path I’m excited to pursue.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical" alt="Vicky Kumar Gupta's GitHub stats"/>
-</p>
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/.png)
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vicky-kumar-gupta-03344b352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vicky Kumar Gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/guptaji_vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GUPTA-VICKY" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mrjharkhandibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MR JHARKHANDI BABU" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
