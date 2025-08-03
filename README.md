@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Vicky-Gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Vicky-Gupta-dev" />
 </p>
 
-- 🔭 I’m currently working as a **Frontend Developer
-- 🌱 I’m learning **Backend Development (Node.js, Express.js, MongoDB)**
+- 🔭 I’m currently working as a |Frontend Developer
+- 🌱 I’m learning| **Backend Development (Node.js, Express.js, MongoDB)**
 -  📞 Phone: +91 7482973062
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
 - 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
@@ -36,7 +36,7 @@
 - 🎓 10th, Amoli Apurua High School, Mangarh (Chouparan), 60%
 - 💻 ADCA+ (Advanced Diploma in Computer Applications), Completed in 2020
 
-###💼 Projects
+💼 Projects
 <ol>
    <h1>🔧 Features</h1>
    <li>Search country by name</li>
@@ -55,6 +55,7 @@ A web app that displays detailed information about countries including flags, po
 - English
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
+  
 ### 🎯 Hobbies & Interests
 - Web Development
 - Coding web interfaces
@@ -62,7 +63,7 @@ A web app that displays detailed information about countries including flags, po
 - Learning new frontend frameworks
 - Exploring open-source
 - Reading tech blogs
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner]( )
+- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner]
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
