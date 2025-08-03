@@ -1,7 +1,4 @@
 # VickyBrandCoding
-
-
-
 <h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
@@ -10,27 +7,20 @@
 </p>
 
 - 🔭 I’m currently working as a **Frontend Developer**
-
 - 🌱 I’m learning **Backend Development (Node.js, Express.js, MongoDB)**
-
+- - 📞 Phone: +91 7482973062
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-
-- 📫 How to reach me: **mrvickybrand3261@gmail.com**
-
 - 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
-
----
-
+- - 🌐 [Portfolio Website](#) *(Coming Soon)*
+- 📫 How to reach me: **mrvickybrand3261@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 ### 🛠️ My Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js
 - **Version Control:** Git & GitHub
+- ** VS Code | Git Bash
 - **API Integration:** REST APIs
 - **Responsive Design:** Yes
-
----
 
 ### 💼 Work Experience
 - **Frontend Developer (1 Year)**
@@ -46,24 +36,26 @@
 - 🎓 10th, Amoli Apurua High School, Mangarh (Chouparan), 60%
 - 💻 ADCA+ (Advanced Diploma in Computer Applications), Completed in 2020
 
----
+---### 💼 Projects
+
+🔹 **Country Info App**  
+Technologies Used: React, Country API, CSS  
+A web app that displays detailed information about countries including flags, population, and region using REST API.
 
 ### 🌐 Languages
 - Hindi
 - English
 
----
-
 ### 🎯 Hobbies & Interests
 - Web Development
+- Coding web interfaces
 - Learning New Technologies
-
----
+- Learning new frontend frameworks
+- Exploring open-source
+- Reading tech blogs
 
 ### 📢 Disclaimer
 The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein.
-
----
 
 ### 👨‍💻 About Me
 Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code.
@@ -77,70 +69,16 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical" alt="Vicky Kumar Gupta's GitHub stats"/>
 </p>
-
-## 👋 Hi there, I'm Vicky Kumar Gupta
-
-I'm a passionate **Frontend Developer** with 1 year of experience crafting responsive and user-friendly websites using **HTML, CSS, JavaScript, and React**. I'm skilled in working with **REST APIs**, such as my project using the Country API.
-
----
-
-### 🔧 Tech Stack:
-- HTML5 | CSS3 | JavaScript (ES6+)
-- React.js
-- RESTful APIs
-- Git & GitHub
-- VS Code | Git Bash
-
----
-
-### 💼 Projects
-
-🔹 **Country Info App**  
-Technologies Used: React, Country API, CSS  
-A web app that displays detailed information about countries including flags, population, and region using REST API.
-
----
-
 ### 📈 GitHub Stats
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky-Gupta-dev&show_icons=true&theme=radical)
-
----
-
-### 📫 Contact Me:
-- 📧 Email: mrvickybrand3261@gmail.com
-- 📞 Phone: +91 7482973062
-- 🔗 [LinkedIn](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
-- 🌐 [Portfolio Website](#) *(Coming Soon)*
-
----
-
 ### 📄 Resume
 [Download My Resume](https://sandbox:/mnt/data/Vicky_Kumar_Gupta_Resume_With_Photo.docx)
-
----
-
-### 🎯 Hobbies & Interests
-- Coding web interfaces
-- Learning new frontend frameworks
-- Reading tech blogs
-- Exploring open-source
-
----
-
-### ⚠️ Disclaimer
-All projects and experiences mentioned above are developed and managed by me. Data such as emails and numbers are confidential and to be used for professional purposes only.
-
----
-
 Thank you for visiting my GitHub! 😊
 
 
-html css projects to build your portfolio
+html css projects to build your portfoli
 
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
