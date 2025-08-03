@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Frontend Developer
 - 🌱 I’m learning **Backend Development (Node.js, Express.js, MongoDB)**
-- - 📞 Phone: +91 7482973062
+-  📞 Phone: +91 7482973062
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
 - 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
 -  🌐 [Portfolio Website](#) *(Coming Soon)*
@@ -23,7 +23,7 @@
 - **Responsive Design:** Yes
 
 ### 💼 Work Experience
-- Frontend Developer (1 Year)**
+- Frontend Developer (1 Year)
   - Developed responsive web applications
   - Integrated APIs like Country API
   - Collaborated with backend and UI teams
@@ -36,7 +36,7 @@
 - 🎓 10th, Amoli Apurua High School, Mangarh (Chouparan), 60%
 - 💻 ADCA+ (Advanced Diploma in Computer Applications), Completed in 2020
 
----### 💼 Projects
+###💼 Projects
 <ol>
    <h1>🔧 Features</h1>
    <li>Search country by name</li>
@@ -46,23 +46,23 @@
    <li>Fetching live data using REST API</li>
 </ol>
 
-🔹 **Country Info App**  
+🔹Country Info App**  
 Technologies Used: React, Country API, CSS  
 A web app that displays detailed information about countries including flags, population, and region using REST API.
 
 ### 🌐 Languages
 - Hindi
 - English
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
-- ### 🎯 Hobbies & Interests
+###<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
+### 🎯 Hobbies & Interests
 - Web Development
 - Coding web interfaces
 - Learning New Technologies
 - Learning new frontend frameworks
 - Exploring open-source
 - Reading tech blogs
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner]( )
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
@@ -86,9 +86,6 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
 <h1 align="center">Vicky Kumar Gupta</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
