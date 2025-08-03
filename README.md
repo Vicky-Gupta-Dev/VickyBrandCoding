@@ -71,17 +71,16 @@ A web app that displays detailed information about countries including flags, po
 <p align="left">
 <a href="https://linkedin.com/in/vicky-kumar-gupta-03344b352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vicky Kumar Gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/guptaji_vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GUPTA-VICKY" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mrjharkhandibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MR JHARKHANDI BABU" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mrjharkhandibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MR JHARKHANDI BABU" height="30" width="40"/></a>
 </p>
 
-
-📢 Disclaimer
+<p align="left">
+  📢 Disclaimer
 The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API
+</p>
 
 👨‍💻 About Me
-Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code.
-
-I began my journey in web development out of pure curiosity and soon realized how powerful and creative this field can be. Over the past year, I have worked on several real-world projects, including dynamic interfaces and API-based applications like the Country API project, where I integrated REST APIs to fetch and display live country data.
+Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code I began my journey in web development out of pure curiosity and soon realized how powerful and creative this field can be. Over the past year, I have worked on several real-world projects, including dynamic interfaces and API-based applications like the Country API project, where I integrated REST APIs to fetch and display live country data.
 
 Currently, I’m expanding my skillset into Backend Development, focusing on Node.js, Express.js, and MongoDB. I believe having a strong understanding of both frontend and backend technologies makes a developer complete, and that’s the path I’m excited to pursue
 ![logo](https://github.com/.png)
