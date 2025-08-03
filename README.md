@@ -53,6 +53,7 @@ A web app that displays detailed information about countries including flags, po
 ### 🌐 Languages
 - Hindi
 - English
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
   
@@ -63,8 +64,8 @@ A web app that displays detailed information about countries including flags, po
 - Learning new frontend frameworks
 - Exploring open-source
 - Reading tech blogs
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner]
-- ⚡ Fun fact **I am funny😅**
+- 👨‍💻 All of my projects are available at 
+- ⚡ Fun fact **I am funny😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,16 +75,17 @@ A web app that displays detailed information about countries including flags, po
 </p>
 
 
-### 📢 Disclaimer
-The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API. 
+📢 Disclaimer
+The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code.
 
 I began my journey in web development out of pure curiosity and soon realized how powerful and creative this field can be. Over the past year, I have worked on several real-world projects, including dynamic interfaces and API-based applications like the Country API project, where I integrated REST APIs to fetch and display live country data.
 
-Currently, I’m expanding my skillset into Backend Development, focusing on Node.js, Express.js, and MongoDB. I believe having a strong understanding of both frontend and backend technologies makes a developer complete, and that’s the path I’m excited to pursue.
+Currently, I’m expanding my skillset into Backend Development, focusing on Node.js, Express.js, and MongoDB. I believe having a strong understanding of both frontend and backend technologies makes a developer complete, and that’s the path I’m excited to pursue
 ![logo](https://github.com/.png)
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=fla" alt="ashutosh-pmishra" /> </p>
