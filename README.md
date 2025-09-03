@@ -98,9 +98,6 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
-</p>
 <br>
 <h2 align="center">💻 My tech stack:</h2>
 <table align="center">
@@ -124,8 +121,8 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 </p>
 <br>
 ---
-###🛠️Tech Stack🛠️
-Frontend:  
+### 🛠️Tech Stack🛠️
+ <p align="center">Frontend:  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
@@ -137,7 +134,7 @@ Backend:
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
 Database:  
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></p><br>
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 <br>
