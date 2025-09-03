@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working as a |Frontend Developer
-- 🌱 I’m learning| **Backend Development (Node.js, Express.js, MongoDB)**
+- 🌱 I’m learning|Backend Development (Node.js, Express.js, MongoDB)
 -  📞 Phone: +91 7482973062
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
 - 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
