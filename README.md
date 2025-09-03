@@ -41,8 +41,8 @@
    <li>Responsive design for all screen sizes</li>
    <li>Fetching live data using REST API</li>
 </ol>
-💻Country Info App
-Technologies Used: React, Country API, CSS  
+<h3 align="left">💻Country Info App Technologies Used:</h3>
+React, Country API, CSS  
 A web app that displays detailed information about countries including flags, population, and region using REST API.
 
 ### 🌐 Languages
@@ -117,11 +117,8 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
-</p>
-<br>
----
-### 🛠️Tech Stack🛠️
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" /></p>
+<h3 align="left">🛠️Tech Stack🛠️</h3>
  <p align="center">Frontend:  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> 
