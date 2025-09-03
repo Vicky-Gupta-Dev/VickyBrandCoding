@@ -50,8 +50,10 @@ A web app that displays detailed information about countries including flags, po
 - English
   
 <h3 align="left">💻Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a>
-  ---
+<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a></p>
+  
+---
+
 🎯 Hobbies & Interests
 - Web Development
 - Coding web interfaces
@@ -117,13 +119,11 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <a href="https://github.com/samarjitsahoo/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
 <a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
 </div>
-📊 **Most Used Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
 </p>
-
-🚀 
-🛠️ **Tech Stack**  
+<br>
+🛠️Tech Stack🛠️
 Frontend:  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> 
@@ -139,7 +139,6 @@ Database:
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 🌟  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-</div>
 <br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/>
