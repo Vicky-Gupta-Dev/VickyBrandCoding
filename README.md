@@ -1,13 +1,11 @@
 # VickyBrandCoding
 <h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vicky-Gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Vicky-Gupta-dev" />
 </p>
-
 - 🔭 I’m currently working as a |Frontend Developer
-- 🌱 I’m learning|Backend Development (Node.js, Express.js, MongoDB)
+- 🌱 I’m learning|**Backend Development (Node.js, Express.js, MongoDB)**
 -  📞 Phone: +91 7482973062
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vicky-Gupta-dev)
 - 📄 Know about my experiences: [LinkedIn Profile](https://in.linkedin.com/in/vicky-kumar-gupta-03344b352)
@@ -35,18 +33,15 @@
 - 🎓 12th, Markham College of Commerce, Hazaribagh (2021), 74.4%
 - 🎓 10th, Amoli Apurua High School, Mangarh (Chouparan), 60%
 - 💻 ADCA+ (Advanced Diploma in Computer Applications), Completed in 2020
-
-💼 Projects
 <ol>
-   <h1>🔧 Features</h1>
+   <h1>🔧 Features 💼 Projects </h1>
    <li>Search country by name</li>
    <li>Filter by region</li>
    <li>Light/Dark mode toggle</li>
    <li>Responsive design for all screen sizes</li>
    <li>Fetching live data using REST API</li>
 </ol>
-
-🔹Country Info App**  
+💻Country Info App💻
 Technologies Used: React, Country API, CSS  
 A web app that displays detailed information about countries including flags, population, and region using REST API.
 
@@ -54,18 +49,22 @@ A web app that displays detailed information about countries including flags, po
 - Hindi
 - English
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a> </p>
   
-### 🎯 Hobbies & Interests
+🎯 Hobbies & Interests
 - Web Development
 - Coding web interfaces
 - Learning New Technologies
 - Learning new frontend frameworks
 - Exploring open-source
 - Reading tech blogs
+- Create responsive, mobile-first websites & apps
+- Build APIs & backend systems
+- Integrate smooth animations & motion
+- Optimize for performance &
 - 👨‍💻 All of my projects are available at 
-- ⚡ Fun fact **I am funny😅
+- ⚡ Fun fact I am funny😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,7 +77,9 @@ A web app that displays detailed information about countries including flags, po
   📢 Disclaimer
 The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
 👨‍💻 About Me
 Hello! I’m Vicky Kumar Gupta, a passionate and self-motivated Frontend Web Developer with 1 year of hands-on experience in building responsive, interactive, and user-centric web applications. I specialize in HTML, CSS, JavaScript, and React, and I love turning ideas into reality through clean and maintainable code I began my journey in web development out of pure curiosity and soon realized how powerful and creative this field can be. Over the past year, I have worked on several real-world projects, including dynamic interfaces and API-based applications like the Country API project, where I integrated REST APIs to fetch and display live country data.
 
@@ -98,8 +99,6 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
 </p>
-<p align="center">Currently learning -> Machine Learning</p>
-<p align="center">Currently working on -> Private Projects</p>
 <br>
 <h2 align="center">💻 My tech stack:</h2>
 <table align="center">
@@ -118,20 +117,12 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
 <a href="https://github.com/samarjitsahoo/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
 <a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
 </div>
-<h1 align="center">Hi there, I'm Divya Sharma 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
-
----
-
-🚀 **About Me**  
-I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+📊 **Most Used Languages**  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-
+🚀 
 🛠️ **Tech Stack**  
 Frontend:  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
@@ -146,39 +137,7 @@ Backend:
 Database:  
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-🌟 **What I Do**
-- Create responsive, mobile-first websites & apps
-- Build APIs & backend systems
-- Integrate smooth animations & motion
-- Optimize for performance & scalability
-
-  
-📊 **Most Used Languages**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
-</p>
-
-
-📫 **Let’s Connect**  
-[📧 Email Me](mailto:divya.builds@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/divyashrma18/)
-
----
-
-⚡ _“Code is like magic — if you know the spell, you can build anything.”_
-<br>
-<h2 align="center">📊 My Github stats:</h2>
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
-</div>
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" alt='Profile'/>
-   <h3 align="left">Support:</h3>
+🌟  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 </div>
 <br>
