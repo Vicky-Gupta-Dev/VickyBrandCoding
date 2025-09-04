@@ -150,6 +150,3 @@ Database:
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/></a>
 </p>
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
-
-s-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</p>
